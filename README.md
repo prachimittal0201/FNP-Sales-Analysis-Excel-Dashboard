@@ -24,6 +24,6 @@ This project analyzes 1,000 customer orders (2023) to uncover sales trends, cust
 This dashboard demonstrates how data analysis can solve real business problems by identifying demand patterns, optimizing product focus, and improving delivery efficiency.
 
 ## 📷 Dashboard Preview
-(Add a screenshot here: `![Dashboard Screenshot](images/dashboard.png)`)
+(Add a screenshot here: fnp-data-analysis-dashboard.png)
 
 ---

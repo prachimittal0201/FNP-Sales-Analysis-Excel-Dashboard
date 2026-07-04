@@ -25,6 +25,7 @@ This dashboard demonstrates how data analysis can solve real business problems b
 
 ## 📷 Dashboard Preview
 - [Dashboard Screenshot](https://github.com/prachimittal0201/FNP-Sales-Analysis-Excel-Dashboard/blob/099ba1978873c725b6297b4dd6d303b7ecff2862/fnp-data-analysis-dashboard.png)
-- [Excel File]
+- [Excel File](https://github.com/prachimittal0201/FNP-Sales-Analysis-Excel-Dashboard/blob/74006991f41d0ebb0babeb0432a411f8521279d5/fnp%20data%20analysis.xlsx)
+- [Executive Summary]
 
 ---
